@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+a {
+	margin-left: 0px;
+	position: fixed;
+	margin-top: 0px;
+}
+.div {
+	margin-bottom: 0px;
+	margin-left: 0px;
+	width: 100%;
+	position: fixed;
+	background-size: 100%;
+	background-color: blue;
+	height: 500px;
+}
